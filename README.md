@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Front-End Calculator Made with HTML5, CSS & Javascript<a href="http://electron.atom.io" target="_blank">Simple Calculator</a>.</h4>
+<h4 align="center">Front-End Calculator Made with HTML5, CSS & Javascript <a href="http://electron.atom.io" target="_blank">Simple Calculator</a>.</h4>
 
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
